@@ -1,0 +1,39 @@
+# Virtual env
+.venv/
+venv/
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter/
+
+# Editors/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Tests & tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+*.secret
+*.key

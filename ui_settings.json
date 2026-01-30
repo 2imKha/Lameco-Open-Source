@@ -1,0 +1,57 @@
+{
+  "pptx": {
+    "slide_width_in": 13.333,
+    "slide_height_in": 7.5,
+    "title_font": "Montserrat",
+    "body_font": "Calibri",
+    "title_size_pt": 0,
+    "body_size_pt": 0,
+    "slide_preset": "Widescreen (16:9)",
+    "global_font": "Calibri",
+    "allowed_sizes_pt": [
+      16,
+      18,
+      20,
+      24,
+      28,
+      32,
+      40,
+      42,
+      44,
+      48,
+      49,
+      54,
+      60,
+      72
+    ],
+    "allowed_title_sizes_pt": [
+      54,
+      60,
+      72
+    ],
+    "enable_slide_specific_rules": true,
+    "agenda_label_text": "Agenda",
+    "agenda_label_size_pt": 49,
+    "agenda_index_size_pt": 44,
+    "agenda_item_size_pt": 28,
+    "closing_tagline_text": "/ digitaal denken/ digitaal doen",
+    "closing_tagline_size_pt": 60
+  },
+  "docx": {
+    "page_size": "A4",
+    "margin_top_mm": 25,
+    "margin_right_mm": 25,
+    "margin_bottom_mm": 25,
+    "margin_left_mm": 25,
+    "default_font": "Montserrat",
+    "font_size_pt": 13,
+    "line_spacing": 1.15,
+    "body_font": "Montserrat",
+    "body_size_pt": 13,
+    "heading_font": "Montserrat",
+    "heading_size_pt": 12,
+    "use_template_baseline": false,
+    "title_font": "Montserrat",
+    "title_size_pt": 32
+  }
+}
